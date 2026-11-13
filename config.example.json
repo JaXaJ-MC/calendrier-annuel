@@ -1,0 +1,17 @@
+{
+  "source": "https://docs.google.com/spreadsheets/d/e/VOTRE-IDENTIFIANT/pub?gid=0&single=true&output=csv",
+  "hote": "127.0.0.1",
+  "port": 8642,
+  "cacheSecondes": 300,
+  "largeurPng": 2400,
+  "reglages": {
+    "communs": [
+      "Club"
+    ],
+    "couleurs": {
+      "Béarn": "#FFD700",
+      "Euskadi": "#DC241F",
+      "Club": "#616161"
+    }
+  }
+}

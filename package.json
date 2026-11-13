@@ -1,0 +1,16 @@
+{
+  "name": "calendrier-annuel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Calendrier annuel généré à la volée depuis une feuille Google Sheets",
+  "main": "serveur.js",
+  "scripts": {
+    "start": "node serveur.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2"
+  }
+}
